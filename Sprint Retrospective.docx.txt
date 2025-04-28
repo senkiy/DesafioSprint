@@ -1,0 +1,17 @@
+Sprint: [Desafio Sprint Versionamento e metodologia ageis]
+Data da Retrospectiva: [28/04/2025]
+
+1. O que foi bem?
+
+A comunicação diária foi eficiente e rápida.
+
+A alteração das informações pedidas pela tarefa foram feitas de forma rapida sem muitos erros.
+
+As alteraçõe foram feitas em 6 dias.
+
+2. O que não foi bem?
+
+Tinha um erro no código fonte.
+
+Tinha um erro no documento contato.html que o link não levava a lugar algum, precisou ser alterado para resolver
+
